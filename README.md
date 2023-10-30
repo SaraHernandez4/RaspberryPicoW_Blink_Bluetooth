@@ -211,17 +211,15 @@ Circuito del blink
 
 ![]()
 
-Menu de las imagenes
+Prendido del LED de la PICO
 
-![](Menu.jpg)
+![](Prendido.jpg)
 
-![](Menu1.jpg)
-
-![](Menu2.jpg)
+![](Prendido1.jpg)
 
 
-Seleccion de la imagen Snoopy
+APAGADO del LED de la PICO
 
-![](Snoopy.jpg)
+![](Apagado.jpg)
 
-![](Snoopy1.jpg)
+![](Apagado1.jpg)
