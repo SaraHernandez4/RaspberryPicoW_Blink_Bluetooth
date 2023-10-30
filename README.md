@@ -126,8 +126,6 @@ if __name__ == "__main__":
 ```python
 # Alumno: Hernandez Saenz Sara Jazmin
 # No. control: 20211791
-# Alumno: Estevez Ramirez Maria Teresa
-# No. control: 20211773
 
 from micropython import const
 import struct
