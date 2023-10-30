@@ -213,13 +213,13 @@ Circuito del blink
 
 Prendido del LED de la PICO
 
-![](Prendido.jpg)
+![](Prendido.jpeg)
 
 ![](Prendido1.jpg)
 
 
 APAGADO del LED de la PICO
 
-![](Apagado.jpg)
+![](Apagado.jpeg)
 
 ![](Apagado1.jpg)
